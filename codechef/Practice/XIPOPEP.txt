@@ -3,6 +3,6 @@
 // Language: unknown
 // Verdict: Accepted
 // URL: https://www.codechef.com/skill-test/XIPOPEP
-// Solved on: 2026-09-30T15:42:30.516Z
+// Solved on: 2026-09-30T16:07:09.832Z
 
 // source not captured automatically - open the solution page and copy it manually
