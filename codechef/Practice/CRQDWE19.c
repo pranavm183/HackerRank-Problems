@@ -10,6 +10,6 @@
 }
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/NREETQ/problems/CRQDWE19
-// Solved on: 2026-10-01T17:57:18.264Z
+// Solved on: 2026-10-01T17:58:32.662Z
 
 // source not captured automatically - copy it from the editor and use Manual Push
