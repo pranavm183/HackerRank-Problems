@@ -4,7 +4,7 @@
 Converted Age (Double): 25.0
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/QMDQQC/problems/TONKSS08
-// Solved on: 2026-09-29T15:46:22.397Z
+// Solved on: 2026-10-01T17:40:50.000Z
 
 class Codechef {
     public static void main(String[] args) {
