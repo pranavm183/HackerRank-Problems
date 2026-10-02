@@ -5,7 +5,7 @@ Converted Roll Number (Short): 12345
 Has Passed: true
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/QMDQQC/problems/TONKSS15
-// Solved on: 2026-09-29T17:54:58.635Z
+// Solved on: 2026-10-02T16:08:11.637Z
 
 class Codechef {
     public static void main(String[] args) {
