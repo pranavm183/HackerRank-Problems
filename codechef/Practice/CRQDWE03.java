@@ -3,7 +3,7 @@
 // Language: Sum: 15
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/NREETQ/problems/CRQDWE03
-// Solved on: 2026-10-01T17:46:30.274Z
+// Solved on: 2026-10-04T16:07:10.866Z
 
 class Codechef {
     public static void main(String[] args) {
