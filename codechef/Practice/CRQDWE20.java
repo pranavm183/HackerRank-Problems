@@ -4,7 +4,7 @@
 4
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/NREETQ/problems/CRQDWE20
-// Solved on: 2026-10-02T16:18:20.340Z
+// Solved on: 2026-10-04T16:13:16.893Z
 
 class Codechef {
     public static void main(String[] args) {
