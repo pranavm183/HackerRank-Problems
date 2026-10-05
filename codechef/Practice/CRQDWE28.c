@@ -3,7 +3,7 @@
 // Language: Average Score: 87.75
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/NREETQ/problems/CRQDWE28
-// Solved on: 2026-10-02T16:19:51.530Z
+// Solved on: 2026-10-05T17:41:06.605Z
 
 class Codechef {
     public static void main(String[] args) {
