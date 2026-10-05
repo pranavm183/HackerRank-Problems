@@ -4,7 +4,7 @@
 Even/Odd check (0 = Even, 1 = Odd): 0
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/NREETQ/problems/CRQDWE25
-// Solved on: 2026-10-02T16:35:59.961Z
+// Solved on: 2026-10-05T17:45:04.204Z
 
 // Declare class Codechef 
 class Codechef {
