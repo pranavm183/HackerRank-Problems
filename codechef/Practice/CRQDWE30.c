@@ -4,8 +4,8 @@
 Exchange Rate (1 USD to INR): 82.5  
 Converted Amount in USD: 1.2121212121212122
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/java-development/NREETQ/problems/CRQDWE30
-// Solved on: 2026-10-02T16:25:43.153Z
+// URL: https://www.codechef.com/learn/course/java-development/NREETQ/problems/CRQDWE21
+// Solved on: 2026-10-05T17:42:05.425Z
 
 class Codechef {
     public static void main(String[] args) {
