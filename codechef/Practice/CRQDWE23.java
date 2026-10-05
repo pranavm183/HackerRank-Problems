@@ -4,7 +4,7 @@
 Remainder when 15 is divided by 4 : 3
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/NREETQ/problems/CRQDWE23
-// Solved on: 2026-10-02T16:26:32.333Z
+// Solved on: 2026-10-05T17:42:45.015Z
 
 class Codechef {
     public static void main(String[] args) {
