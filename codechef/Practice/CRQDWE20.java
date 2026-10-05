@@ -3,8 +3,8 @@
 // Language: 42  
 4
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/java-development/NREETQ/problems/CRQDWE20
-// Solved on: 2026-10-04T16:13:16.893Z
+// URL: https://www.codechef.com/learn/course/java-development/NREETQ/problems/CRQDWE26
+// Solved on: 2026-10-05T17:40:47.420Z
 
 class Codechef {
     public static void main(String[] args) {
