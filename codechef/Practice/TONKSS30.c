@@ -4,7 +4,7 @@
 Current Speed: 75 km/h
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/QMDQQC/problems/TONKSS30
-// Solved on: 2026-10-04T16:06:25.207Z
+// Solved on: 2026-10-05T17:39:09.996Z
 
 class Codechef {
     public static void main(String[] args) {
