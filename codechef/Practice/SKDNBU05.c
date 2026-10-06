@@ -5,7 +5,7 @@ Final Price after the discount is : 70
 Average Price is : 35
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/TCXDPZ/problems/SKDNBU05
-// Solved on: 2026-10-03T18:17:39.864Z
+// Solved on: 2026-10-06T17:54:00.885Z
 
 class Codechef {
     public static void main(String[] args) {
