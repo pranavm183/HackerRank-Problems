@@ -2,8 +2,8 @@
 // Platform: codechef
 // Language: Java​
 // Verdict: Accepted
-// URL: https://www.codechef.com/skill-test/PHQSMO2/problems/CBNFLQ08
-// Solved on: 2026-10-02T17:05:11.083Z
+// URL: https://www.codechef.com/skill-test/PHQSMO/problems/CBNFLQ08
+// Solved on: 2026-10-07T17:35:10.300Z
 
 import java.util.*;
 import java.lang.*;
@@ -16,15 +16,14 @@ class Codechef
 		int totalSecondsInput = 7384;
 
         // Calculate full hours
-        int hours=totalSecondsInput/(60*60);
-        
-        int remaining=totalSecondsInput%(60*60);
+        int hours=totalSecondsInput/3600;
+        int remainingSecondsAfterHours=totalSecondsInput%3600;
 
         // Calculate full minutes from remaining seconds
-        int minutes=remaining/60;
+        int minutes=remainingSecondsAfterHours/60;
 
         // Remaining seconds after extracting minutes
-        int seconds=remaining%60;
+        int seconds=remainingSecondsAfterHours%60;
 
         // Output the result
         System.out.println("Hours: " + hours);
