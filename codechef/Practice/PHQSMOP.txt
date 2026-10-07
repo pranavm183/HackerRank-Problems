@@ -3,6 +3,6 @@
 // Language: unknown
 // Verdict: Accepted
 // URL: https://www.codechef.com/skill-test/PHQSMOP
-// Solved on: 2026-10-02T17:06:35.288Z
+// Solved on: 2026-10-07T17:22:17.653Z
 
-// source not captured automatically - copy it from the editor and use Manual Push
+// source not captured automatically - open the solution page and copy it manually
