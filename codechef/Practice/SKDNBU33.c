@@ -1,0 +1,22 @@
+// Problem: SKDNBU33
+// Platform: codechef
+// Language: Student 1 Score: 50  
+Student 2 Score: 50  
+Student 3 Score: 50
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/java-development/TCXDPZ/problems/SKDNBU33
+// Solved on: 2026-10-07T16:49:51.098Z
+
+class Codechef {
+    public static void main(String[] args) {
+        int student1, student2, student3; // Declaring multiple variables
+
+        // Assigning the same initial score using chained assignment
+        student1 = student2 = student3 = 50;
+
+        // Printing the initialized scores
+        System.out.println("Student 1 Score: " + student1);
+        System.out.println("Student 2 Score: " + student2);
+        System.out.println("Student 3 Score: " + student3);
+    }
+}
