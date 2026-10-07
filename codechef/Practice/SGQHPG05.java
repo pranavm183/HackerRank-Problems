@@ -3,7 +3,7 @@
 // Language: rewardPoints = 120, bonusPoints = 30, expiredPoints = 10;
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/GAAKHM/problems/SGQHPG05
-// Solved on: 2026-10-07T17:01:28.226Z
+// Solved on: 2026-10-07T17:02:57.072Z
 
 class Codechef {
     public static void main(String[] args) {
