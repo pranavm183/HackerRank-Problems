@@ -4,7 +4,7 @@
 User Status: Active User
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/KQKACU/problems/DCTRHJ03
-// Solved on: 2026-10-08T10:42:14.599Z
+// Solved on: 2026-10-09T16:11:38.405Z
 
 class Codechef {
     public static void main(String[] args) {
