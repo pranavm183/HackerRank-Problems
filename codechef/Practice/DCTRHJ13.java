@@ -3,7 +3,7 @@
 // Language: Full Name: John Doe
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/KQKACU/problems/DCTRHJ13
-// Solved on: 2026-10-08T10:47:09.788Z
+// Solved on: 2026-10-09T16:14:16.630Z
 
 class Codechef {
     public static void main(String[] args) {
