@@ -1,0 +1,8 @@
+// Problem: DCTRHJ12
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/java-development/KQKACU/problems/DCTRHJ12
+// Solved on: 2026-10-09T16:12:13.022Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
