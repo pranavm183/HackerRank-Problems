@@ -1,0 +1,22 @@
+// Problem: DCTRHJ38
+// Platform: codechef
+// Language: str1 == str2: false
+str1 == str3: false
+str2 == str3: false
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/java-development/KQKACU/problems/DCTRHJ38
+// Solved on: 2026-10-11T15:49:17.843Z
+
+class Codechef {
+    public static void main(String[] args) {
+        // Declaring string literals
+        String str1 = "Java";  // Stored in the String Pool
+        String str2 = "JAVA";  // Different value, stored in the String Pool
+        String str3 = new String("Java");  // New String but at diffrent memory location
+
+        // Comparing references using '=='
+        System.out.println("str1 == str2: " + (str1 == str2));  // false, different content, different references
+        System.out.println("str1 == str3: " + (str1 == str3));  // false, str3 is at different memory location
+        System.out.println("str2 == str3: " + (str2 == str3));  // false, content is not same
+    }
+}
