@@ -5,7 +5,7 @@ str1 == str3: false
 str2 == str3: false
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/KQKACU/problems/DCTRHJ38
-// Solved on: 2026-10-11T15:49:17.843Z
+// Solved on: 2026-10-11T15:49:28.414Z
 
 class Codechef {
     public static void main(String[] args) {
