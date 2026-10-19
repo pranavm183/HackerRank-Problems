@@ -4,7 +4,7 @@
 Attendance check completed.
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/PKAKHY/problems/WNDHVZ23
-// Solved on: 2026-10-15T15:28:26.096Z
+// Solved on: 2026-10-19T16:51:44.865Z
 
 import java.util.*;
 
