@@ -3,7 +3,7 @@
 // Language: You are a teenager.
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/WPGGQR/problems/RESUFF03
-// Solved on: 2026-10-20T18:25:09.236Z
+// Solved on: 2026-10-21T16:59:37.540Z
 
 class Codechef {
     public static void main(String[] args) {
