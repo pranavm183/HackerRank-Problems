@@ -3,7 +3,7 @@
 // Language: Java​
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/WPGGQR/problems/RESUFF10
-// Solved on: 2026-10-21T17:06:49.774Z
+// Solved on: 2026-10-22T12:49:37.367Z
 
 import java.util.Scanner; // Import the Scanner class to read input from the user
 
