@@ -16,6 +16,6 @@ if (amount >= 5000) {
 }
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/WPGGQR/problems/RESUFF09
-// Solved on: 2026-10-21T17:03:19.674Z
+// Solved on: 2026-10-22T12:42:42.070Z
 
 // source not captured automatically - copy it from the editor and use Manual Push
