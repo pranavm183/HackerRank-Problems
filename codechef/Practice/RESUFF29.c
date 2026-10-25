@@ -16,6 +16,6 @@
 }
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/WPGGQR/problems/RESUFF29
-// Solved on: 2026-10-24T18:06:41.921Z
+// Solved on: 2026-10-25T13:02:15.021Z
 
 // source not captured automatically - copy it from the editor and use Manual Push
