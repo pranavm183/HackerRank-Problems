@@ -4,7 +4,7 @@
 Dinner is served from 6 PM to 9 PM.
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/WPGGQR/problems/RESUFF28
-// Solved on: 2026-10-24T18:06:10.809Z
+// Solved on: 2026-10-25T13:02:06.736Z
 
 class Codechef {
     public static void main(String[] args) {
