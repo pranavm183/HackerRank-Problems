@@ -3,7 +3,7 @@
 // Language: Access Granted!
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/BLKQBQ/problems/CTMNMF04
-// Solved on: 2026-10-26T18:19:05.567Z
+// Solved on: 2026-10-26T18:19:12.666Z
 
 class Codechef {
     public static void main(String[] args) {
