@@ -5,7 +5,7 @@ Flight Duration: 2.5 hours
 Flight status match: false
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/KQKACU/problems/DCTRHJ30
-// Solved on: 2026-10-11T15:37:56.227Z
+// Solved on: 2026-10-29T14:50:27.307Z
 
 // This class demonstrates the use of statements and semicolons in Java.
 class Codechef {
