@@ -4,7 +4,7 @@
 Is str1 equal to str3? false
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/KQKACU/problems/DCTRHJ28
-// Solved on: 2026-10-11T15:29:47.755Z
+// Solved on: 2026-10-29T14:45:34.528Z
 
 class Codechef {
     public static void main(String[] args) {
