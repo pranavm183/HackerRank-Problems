@@ -15,6 +15,6 @@
 }
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/KQKACU/problems/DCTRHJ29
-// Solved on: 2026-10-11T15:30:27.366Z
+// Solved on: 2026-10-29T14:49:09.332Z
 
 // source not captured automatically - copy it from the editor and use Manual Push
