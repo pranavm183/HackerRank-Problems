@@ -1,0 +1,8 @@
+// Problem: LPJSPR117
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/javascript/LPJAS11/problems/LPJSPR117
+// Solved on: 2026-10-29T15:51:42.794Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
