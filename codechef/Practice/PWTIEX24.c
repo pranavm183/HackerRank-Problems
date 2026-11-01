@@ -14,6 +14,6 @@
 }
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/BGDCIA/problems/PWTIEX24
-// Solved on: 2026-10-30T17:52:57.424Z
+// Solved on: 2026-11-01T17:31:05.906Z
 
 // source not captured automatically - copy it from the editor and use Manual Push
