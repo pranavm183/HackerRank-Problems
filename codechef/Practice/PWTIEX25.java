@@ -3,7 +3,7 @@
 // Language: Java​
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/BGDCIA/problems/PWTIEX25
-// Solved on: 2026-10-30T17:57:43.177Z
+// Solved on: 2026-11-01T17:31:22.721Z
 
 import java.util.Scanner;
 
