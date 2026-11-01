@@ -4,7 +4,7 @@
 Welcome to the world of Java!
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/BGDCIA/problems/PWTIEX23
-// Solved on: 2026-10-30T17:52:27.570Z
+// Solved on: 2026-11-01T17:30:57.572Z
 
 class Codechef {
     // Static method without parameters and return type
