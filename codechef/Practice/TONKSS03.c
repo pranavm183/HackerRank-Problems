@@ -5,7 +5,7 @@ Science Score: 90
 English Score: 78
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/QMDQQC/problems/TONKSS03
-// Solved on: 2026-10-01T17:38:23.623Z
+// Solved on: 2026-11-02T18:06:54.322Z
 
 class Codechef {
     public static void main(String[] args) {
