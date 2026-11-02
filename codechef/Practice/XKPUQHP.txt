@@ -1,0 +1,8 @@
+// Problem: XKPUQHP
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/skill-test/XKPUQHP
+// Solved on: 2026-11-02T14:33:00.296Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
