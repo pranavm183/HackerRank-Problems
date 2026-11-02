@@ -6,8 +6,8 @@ Shots on Target: 5
 Player 1 Rating: 8.5  
 Player 2 Rating: 7.9
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/java-development/QMDQQC/problems/TONKSS05?tab=statement
-// Solved on: 2026-09-27T16:21:08.595Z
+// URL: https://www.codechef.com/learn/course/java-development/QMDQQC/problems/TONKSS05
+// Solved on: 2026-11-02T18:07:25.432Z
 
 class Codechef {
     public static void main (String[] args) {
