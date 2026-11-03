@@ -1,0 +1,9 @@
+// Problem: Explained Solutions
+// Platform: codechef
+// Language: expenses = 2000.50, 1500.75, 800.25, 1200.00, 500.00
+newExpenses = 100.00, 150.00, 75.50
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/java-development/ARRAYLIST/problems/ARRLST09B?tab=solution
+// Solved on: 2026-11-03T16:21:37.041Z
+
+// source not captured automatically - open the solution page and copy it manually
