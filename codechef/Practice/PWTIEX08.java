@@ -3,7 +3,7 @@
 // Language: Java​
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/BGDCIA/problems/PWTIEX08
-// Solved on: 2026-10-31T18:12:43.436Z
+// Solved on: 2026-11-04T18:20:26.444Z
 
 class BankAccount {
     double balance;
