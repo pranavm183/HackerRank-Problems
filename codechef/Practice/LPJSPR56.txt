@@ -1,0 +1,11 @@
+// Problem: LPJSPR56
+// Platform: codechef
+// Language: let marks = 75;
+let grade = 'B';
+if (marks >= 60)
+   grade = 'A';
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/javascript/LPJAS06/problems/LPJSPR56
+// Solved on: 2026-11-05T14:06:14.833Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
