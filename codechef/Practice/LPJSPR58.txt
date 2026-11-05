@@ -1,0 +1,8 @@
+// Problem: LPJSPR58
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/javascript/LPJAS06/problems/LPJSPR58
+// Solved on: 2026-11-05T14:09:59.141Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
