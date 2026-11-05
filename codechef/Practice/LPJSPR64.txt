@@ -1,0 +1,8 @@
+// Problem: LPJSPR64
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/javascript/LPJAS06/problems/LPJSPR64
+// Solved on: 2026-11-05T14:12:48.338Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
