@@ -3,7 +3,7 @@
 // Language: JavaScript​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/javascript/LPJAS11/problems/LPJSPR124
-// Solved on: 2026-10-29T16:13:10.415Z
+// Solved on: 2026-11-05T14:03:31.920Z
 
 let N = parseInt(inputChar);
 
