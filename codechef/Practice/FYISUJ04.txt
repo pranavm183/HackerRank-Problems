@@ -1,0 +1,8 @@
+// Problem: FYISUJ04
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/java-development/XHFZFN/problems/FYISUJ04
+// Solved on: 2026-11-07T17:56:32.947Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
