@@ -1,0 +1,8 @@
+// Problem: OBZPOG05
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/java-development/TRDCFP/problems/OBZPOG05
+// Solved on: 2026-11-07T16:13:49.417Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
