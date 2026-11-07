@@ -3,7 +3,7 @@
 // Language: Java​
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/XHFZFN/problems/FYISUJ03
-// Solved on: 2026-11-07T17:56:00.631Z
+// Solved on: 2026-11-07T17:56:12.545Z
 
 class Codechef  {
     public static void main(String[] args) {
