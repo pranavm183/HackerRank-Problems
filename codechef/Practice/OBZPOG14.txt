@@ -1,0 +1,8 @@
+// Problem: OBZPOG14
+// Platform: codechef
+// Language: System.out.println(5000.00);
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/java-development/TRDCFP/problems/OBZPOG14
+// Solved on: 2026-11-07T17:34:24.232Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
