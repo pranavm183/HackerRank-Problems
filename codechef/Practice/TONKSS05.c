@@ -7,7 +7,7 @@ Player 1 Rating: 8.5
 Player 2 Rating: 7.9
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/QMDQQC/problems/TONKSS05
-// Solved on: 2026-11-02T18:07:25.432Z
+// Solved on: 2026-11-10T11:20:18.972Z
 
 class Codechef {
     public static void main (String[] args) {
