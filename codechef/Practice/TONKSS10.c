@@ -5,7 +5,7 @@ Converted Distance in Double: 450.0 km
 Is Journey Active: true
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/QMDQQC/problems/TONKSS10
-// Solved on: 2026-11-02T18:13:15.940Z
+// Solved on: 2026-11-10T11:31:54.114Z
 
 class Codechef {
     public static void main(String[] args) {
