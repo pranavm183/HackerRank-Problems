@@ -4,7 +4,7 @@
 Current Temperature: 25.2
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/QMDQQC/problems/TONKSS20
-// Solved on: 2026-11-02T18:21:18.233Z
+// Solved on: 2026-11-10T11:45:08.412Z
 
 class Codechef {
     public static void main(String[] args) {
