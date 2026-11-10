@@ -3,7 +3,7 @@
 // Language: Gravitational Acceleration: 9.80665 m/(s*s)
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/XHFZFN/problems/FYISUJ33
-// Solved on: 2026-11-08T18:08:58.447Z
+// Solved on: 2026-11-10T11:08:09.033Z
 
 class Codechef {
     public static void main(String[] args) {
