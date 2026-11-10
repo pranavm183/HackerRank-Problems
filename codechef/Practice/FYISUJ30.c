@@ -4,7 +4,7 @@
 Distance Covered: 150 km
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/XHFZFN/problems/FYISUJ30
-// Solved on: 2026-11-08T18:08:36.837Z
+// Solved on: 2026-11-10T11:06:55.703Z
 
 class Codechef {
     public static void main(String[] args) {
