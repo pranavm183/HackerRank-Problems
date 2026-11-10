@@ -3,7 +3,7 @@
 // Language: Fixed Tax Rate: 0.18
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/QMDQQC/problems/TONKSS28
-// Solved on: 2026-11-02T18:22:14.694Z
+// Solved on: 2026-11-10T11:51:57.667Z
 
 class Codechef {
     public static void main(String[] args) {
