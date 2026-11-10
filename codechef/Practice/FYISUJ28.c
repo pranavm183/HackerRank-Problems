@@ -3,7 +3,7 @@
 // Language: Average Temperature: 28.75°C
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/XHFZFN/problems/FYISUJ28
-// Solved on: 2026-11-08T18:08:03.326Z
+// Solved on: 2026-11-10T11:06:18.613Z
 
 class Codechef {
     public static void main(String[] args) {
