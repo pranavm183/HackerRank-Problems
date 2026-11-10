@@ -11,6 +11,6 @@
 }
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/QMDQQC/problems/TONKSS04
-// Solved on: 2026-11-02T18:07:11.034Z
+// Solved on: 2026-11-10T11:20:06.969Z
 
 // source not captured automatically - copy it from the editor and use Manual Push
