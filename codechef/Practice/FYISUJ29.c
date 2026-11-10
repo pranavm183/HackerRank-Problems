@@ -4,7 +4,7 @@
 Maximum Possible Rating: 5.0
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/XHFZFN/problems/FYISUJ29
-// Solved on: 2026-11-08T18:08:15.236Z
+// Solved on: 2026-11-10T11:06:42.528Z
 
 class Codechef {
     public static void main(String[] args) {
