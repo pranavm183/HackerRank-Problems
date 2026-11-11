@@ -4,7 +4,7 @@
 New Message: Java Programming is fun!
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/KQKACU/problems/DCTRHJ23
-// Solved on: 2026-10-29T14:42:47.147Z
+// Solved on: 2026-11-11T15:55:49.288Z
 
 class Codechef {
     public static void main(String[] args) {
