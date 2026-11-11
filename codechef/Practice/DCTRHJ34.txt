@@ -1,0 +1,8 @@
+// Problem: DCTRHJ34
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/undefined/KQKACU/problems/DCTRHJ34
+// Solved on: 2026-11-11T16:22:03.971Z
+
+# cook your dish here
