@@ -4,8 +4,8 @@
 Product Price: $249.99  
 Review Match: true
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/java-development/KQKACU/problems/DCTRHJ35
-// Solved on: 2026-10-11T15:43:36.990Z
+// URL: https://www.codechef.com/learn/course/undefined/KQKACU/problems/DCTRHJ35
+// Solved on: 2026-11-11T16:23:50.630Z
 
 class Codechef {
     public static void main(String[] args) {
