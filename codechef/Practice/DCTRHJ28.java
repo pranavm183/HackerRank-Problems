@@ -3,8 +3,8 @@
 // Language: Is str1 equal to str2? true
 Is str1 equal to str3? false
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/java-development/KQKACU/problems/DCTRHJ28
-// Solved on: 2026-10-29T14:45:34.528Z
+// URL: https://www.codechef.com/learn/course/undefined/KQKACU/problems/DCTRHJ28
+// Solved on: 2026-11-11T16:14:31.554Z
 
 class Codechef {
     public static void main(String[] args) {
