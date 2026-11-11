@@ -3,7 +3,7 @@
 // Language: Full Address: 123 Main St, Springfield, USA
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/KQKACU/problems/DCTRHJ18
-// Solved on: 2026-10-11T15:26:30.953Z
+// Solved on: 2026-11-11T11:32:48.745Z
 
 class Codechef {
     public static void main(String[] args) {
