@@ -6,7 +6,7 @@ scienceMarks = 90;
 englishMarks = 70;
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-development/KQKACU/problems/DCTRHJ05
-// Solved on: 2026-10-08T10:46:23.005Z
+// Solved on: 2026-11-11T10:38:58.249Z
 
 class Codechef {
     public static void main(String[] args) {
