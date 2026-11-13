@@ -3,7 +3,7 @@
 // Language: SQL​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/sql-case-studies-topic-wise/SQLBP01/problems/SQLPBP13
-// Solved on: 2026-11-12T16:57:22.927Z
+// Solved on: 2026-11-13T06:24:04.379Z
 
 -- your code goes here
 SELECT DISTINCT company_name 
