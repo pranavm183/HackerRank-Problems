@@ -9,7 +9,7 @@
 └─────────────┴───────┘
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/sql-case-studies-topic-wise/SQLBP01/problems/SQLPBP04
-// Solved on: 2026-11-14T13:38:14.540Z
+// Solved on: 2026-11-15T03:18:31.009Z
 
 -- your code goes here
 SELECT DISTINCT p.player_name, p.score
