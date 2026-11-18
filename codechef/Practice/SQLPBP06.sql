@@ -3,7 +3,7 @@
 // Language: SQL​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/sql-case-studies-topic-wise/SQLBP01/problems/SQLPBP06
-// Solved on: 2026-11-17T14:11:43.023Z
+// Solved on: 2026-11-18T10:28:13.225Z
 
 -- your code goes here
 select author_id,author_name,publication_name from Views
