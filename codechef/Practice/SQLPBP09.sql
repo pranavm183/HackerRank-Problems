@@ -3,7 +3,7 @@
 // Language: SQL​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/sql-case-studies-topic-wise/SQLBP01/problems/SQLPBP09
-// Solved on: 2026-11-14T13:31:15.765Z
+// Solved on: 2026-11-18T10:28:02.355Z
 
 -- your code goes here
 select department,count(*) as total_employees
