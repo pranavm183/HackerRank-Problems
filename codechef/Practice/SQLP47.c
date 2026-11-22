@@ -3,6 +3,6 @@
 // Language: select MIN(college) from Users;
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/sql-case-studies-topic-wise/SQLPRAC05/problems/SQLP47
-// Solved on: 2026-11-21T14:55:49.497Z
+// Solved on: 2026-11-22T12:42:49.061Z
 
 // source not captured automatically - copy it from the editor and use Manual Push
