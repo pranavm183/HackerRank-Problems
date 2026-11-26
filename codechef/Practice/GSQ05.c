@@ -4,7 +4,7 @@
 VALUES (34, 'Abel George', 910023432);
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS01/problems/GSQ05
-// Solved on: 2026-11-24T16:23:52.611Z
+// Solved on: 2026-11-26T06:42:13.247Z
 
 /* Write a query to insert the below mentioned employee details to the table 'employee' */
 
